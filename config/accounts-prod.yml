@@ -2,7 +2,7 @@ build:
   version: "1.0"
   
 accounts:
-  message: "Welcome to SubhamBank accounts related prod APIs "
+  message: "Welcome to SubhamBank accounts related production APIs "
   contactDetails:
     name: "John Doe 3 - L3 Support Lead"
     email: "{cipher}5f990eb40d0a45c99084adee17da94bd7cf7ac7750775617218cc532aadd79aefd912dd10231cc33556c2b2211e7a4a8"
@@ -10,3 +10,4 @@ accounts:
     - (666) 255-1234
 
     - (666) 543-1345
+
