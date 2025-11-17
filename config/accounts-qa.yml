@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+  
+accounts:
+  message: "Welcome to SubhamBank accounts related qa APIs "
+  contactDetails:
+    name: "John Doe 2- QA Engineer"
+    email: "john2@eazybank.com"
+  onCallSupport:
+    - (655) 555-1234
+    - (655) 523-1345

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+  
+accounts:
+  message: "Welcome to SubhamBank accounts related prod APIs "
+  contactDetails:
+    name: "John Doe 3 - L3 Support Lead"
+    email: "john3@eazybank.com"
+  onCallSupport:
+    - (666) 255-1234
+    - (666) 543-1345
